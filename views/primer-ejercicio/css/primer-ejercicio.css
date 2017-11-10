@@ -1,0 +1,18 @@
+.yellow, .gray{
+  margin: 10px;
+  height: 100px;
+  padding:10px;
+  font-family:sans-serif;
+}
+
+.yellow{
+
+  display:block;
+  background-color: #f9cc5f;
+}
+
+.gray {
+  display:block;
+  background-color: #2B2B2B;
+  color: #FFF;
+  }
